@@ -1,0 +1,13 @@
+- Irv Leen, Chairman
+- Dolores Larsen, Vice Chairman
+- Nancy Lazaro, Secretary
+- Kara Kunz, Treasurer
+- Jay Edwards
+- Linda Youngblood
+- Cathy Hibberd
+- Diana Henigan
+- Laurel Adams
+- Julia Harrison
+- Sally Bouvia, Ex-Officio (Trustee)
+- Steven Hale, Ex-Officio (CEO)
+- *Casey Clark-Ney, Executive Director*
