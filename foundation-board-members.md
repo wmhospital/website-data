@@ -6,7 +6,6 @@
 - Jay Edwards
 - Linda Youngblood
 - Cathy Hibberd
-- Diana Henigan
 - Laurel Adams
 - Julia Harrison
 - Sally Bouvia, Ex-Officio (Trustee)
