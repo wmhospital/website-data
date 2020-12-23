@@ -2,5 +2,9 @@
     {
         "question": "Visiting Hours?",
         "answer": "Visiting is allowed at all hours but the doors may be locked between 10pm-6am"
+    },
+    {
+        "question": "COVID-19 Questions",
+        "answer": "Please call ahead if you are experiencing any COVID symptoms."
     }
 ]
