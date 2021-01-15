@@ -1,0 +1,9 @@
+{
+  "test": "
+    <div style="display: flex; justifyContent: center;">
+      <h1>TEST</h1>
+      <p>THis is just a test.</p>
+    </div>
+  ",
+  "covid": ""
+}
