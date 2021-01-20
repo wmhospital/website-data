@@ -4,7 +4,7 @@
     },
     {
         "question": "What tier are we in now and who does it include?",
-        "answer": "<ul><li>We are in <b>Tiers 1<b/> and <b>2.1</b> until <b>February 1</b>.</li><li><b>Tier 1:</b><ul><li>Medical Staff.</li><li>Dentists, Dental Hygienists and Dental Assistants.</li><li>Pharmacists, Pharmacy Techs and Aides.</li><li>Public Health and Emergency Response Workers.</li></ul></li><li><b>Tier 2.1:</b></li><ul><li>Educators.</li><li>Frontline Essential Workers that are high risk of exposure.</li><li>Adults 65 years of Age and Older.</li></ul></ul>"
+        "answer": "<ul><li>We are working through <b>Tiers 1<b/> and <b>2.1</b> until <b>February 1</b>.</li><li><b>Tier 1:</b><ul><li>Medical Staff.</li><li>Dentists, Dental Hygienists and Dental Assistants.</li><li>Pharmacists, Pharmacy Techs and Aides.</li><li>Public Health and Emergency Response Workers.</li></ul></li><li><b>Tier 2.1:</b></li><ul><li>Educators.</li><li>Frontline Essential Workers that are high risk of exposure.</li><li>Adults 65 years of Age and Older.</li></ul></ul>"
     },
     {
         "question": "If I am in one of those categories, how do I schedule my vaccine  appointment?",
@@ -28,11 +28,11 @@
     },
     {
         "question": "How do we know there will be enough of the second shot if you don’t know how many doses are being allocated to our County?",
-        "answer": "<ul><li>We work with closely with the health district to make sure that they set aside enough for the second doses.</li></ul>"
+        "answer": "<ul><li>We work closely with the health district to make sure that they set aside enough for the second doses.</li></ul>"
     },
     {
         "question": "Can I select whether I want the Pfizer or Maderna vaccine?",
-        "answer": "<ul><li><b>No</b></li><li>Right now we are offering Maderna due to the ease of storage and availability.</li></ul>"
+        "answer": "<ul><li><b>No</b></li><li>Right now we are offering Moderna due to the ease of storage and availability.</li></ul>"
     },
     {
         "question": "What type of side effects may occur and will they require me to miss work or have someone care for me?",
