@@ -53,5 +53,13 @@
     {
         "question": "What if I have more questions about the Vaccine?",
         "answer": "<ul><li>We will be putting vaccine updates on the Weiser Memorial Hospital and <a href='http://www.familymedicalweiser.org/' target='__blank'>Family Medical Center</a> webpages, and our <a href='https://www.facebook.com/WeiserMemorialHospital' target='__blank'>Facebook</a> pages every Monday and Thursday.</li><li>This will include scheduling information.</li><li>Watch <a href='https://livinginthenews.com/' target='__blank'>Living In The News</a> and check the <a href='http://signalamerican.com/'>Weiser Signal American</a></li></ul>"
+    },
+    {
+        "description": "Video of Dr. Blanchard in the park.",
+        "content": "<iframe style=\"margin: 0 auto;\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zyR3CkpQqzc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+    },
+    {
+        "description": "Video of FMC Dr.'s in their office.",
+        "content": "<iframe src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FWeiserMemorialHospital%2Fvideos%2F398635674529998%2F&show_text=0&width=560\" width=\"560\" height=\"315\" style=\"border:none;overflow:hidden;\" scrolling=\"no\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>"
     }
 ]
