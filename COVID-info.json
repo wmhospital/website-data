@@ -1,72 +1,44 @@
 [
-    {
-        "date": "Monday March 8, 2021"
-    },
-    {
-        "question": "What tier are we in now and who does it include?",
-        "answer": "<ul><li>We are working through <b>Tiers 1<b/> and <b>2.1</b> until <b>February 1</b>.</li><li><b>Tier 1:</b><ul><li>Medical Staff.</li><li>Dentists, Dental Hygienists and Dental Assistants.</li><li>Pharmacists, Pharmacy Techs and Aides.</li><li>Public Health and Emergency Response Workers.</li></ul></li><li><b>Tier 2.1:</b></li><ul><li>Educators.</li><li>Frontline Essential Workers that are high risk of exposure.</li><li>Adults 65 years of Age and Older.</li></ul></ul>"
-    },
-    {
-        "question": "Are you still taking vaccine appointments at Family Medical?",
-        "answer": "<ul><li style=\"color: #9fcbed; background: #002b5c; padding: 10px\">NO. We are <b>NOT</b> scheduling any additional appointments at this time.</li><li>We have had a large response from those wanting the vaccine.</li><li>Today we were notified that Idaho received a limited amount of vaccine.</li><li>This means it limits us to 100 vaccines a week, not the 150 we had requested and anticipated receiving.</li></ul>"
-    },
-    {
-        "question": "Does that mean you will be cancelling and rescheduling some of the vaccine appointments already scheduled?",
-        "answer": "<ul><li>Yes –  We will have to shift the vaccine schedules around to meet the number of vaccines we will be getting.</li><li>We want to ask for your patience and understanding if you receive a call asking you to reschedule.</li><li>Everyone involved, including the health districts, are doing the best they can to organize the vaccine distribution efficiently, especially when parts of the vaccine plan are out of our control.</li><li>We are also doing our best to communicate our vaccine plans and any changes, as soon as the information becomes available to us.</li></ul>"
-    },
-    {
-        "question": "Can I go to other locations and get my vaccine?",
-        "answer": "<ul><li>Yes, However, I would call and make sure they have vaccine available and that you are in the categories they are vaccinating.</li></ul>"
-    },
-    {
-        "question": "Are there any plans for mass vaccination sites in Washington County?",
-        "answer": "<ul><li>With the limited vaccines available, not at this time.</li></ul>"
-    },
-    {
-        "question": "Are their plans to set up vaccination sites in Cambridge and Midvale?  ",
-        "answer": "<ul><li>Not at this time</li></ul>"
-    },
-    {
-        "question": "I have had COVID-19, do I still need to get the vaccine?",
-        "answer": "<ul><li>According to the CDC – reinfection with COVID-19 is still possible.</li><li>The vaccine should be considered regardless of whether you already had the COVID-19 infection.</li></ul>"
-    },
-    {
-        "question": "Will the COVID-19 vaccination protect me from getting COVID?",
-        "answer": "<ul><li>Yes - The COVID-19 vaccination works by teaching your immune system how to recognize and fight the virus that causes COVID-19, and this protects you from getting sick with COVID-19.</li></ul>"
-    },
-    {
-        "question": "What type of side effects may occur and will they require me to miss work or have someone care for me?",
-        "answer": "<ul><li>Most people experience mild side affects.</li><li>Your arm may be sore, red and warm to touch.</li><li>Others have reported headaches or fever. This is a sign that your immune system is working and building up protection to the disease.</li></ul>"
-    },
-    {
-        "question": "Am I still a spreader if I have had COVID and/or if I have had my vaccine?",
-        "answer": "<ul><li>Yes. - It takes several weeks to build up vaccine-induced antibodies and other immune defenses, and both vaccines from Pfizer and Moderna require a booster dose 21 to 28 days after the first dose. So, the full protection offered by the vaccines would take at least a month to develop.</li><li>And since the vaccines don’t work perfectly, and it’s not known yet to what extent they prevent infection, it’s possible that a vaccinated person might still get the virus and be able to pass it on to others.</li><li>People will still need to wear masks, socially distance, wash their hands and avoid large gatherings, especially indoors.</li><li>It will take time to vaccinate everyone. Until that happens and until it’s clear how well the vaccines prevent transmission, safety measures are still needed.</li></ul>"
-    },
-    {
-        "question": "Why do I still have to wear a mask after I am vaccinated?",
-        "answer": "<ul><li>We can be immune and still be a carrier.</li></ul>"
-    },
-    {
-        "question": "How will we know how long our immunity last if we have had COVID-19?",
-        "answer": "<ul><li>At this time, experts do not know how long someone is protected from getting sick again after recovering from COVID-19.</li><li>The immunity someone gains from having an infection, called natural immunity, varies from person to person. Some early evidence suggests natural immunity may not last very long.</li></ul>"
-    },
-    {
-        "question": "With the new virus being more contagious, should I be wearing an N95 mask?",
-        "answer": "<ul><li>The CDC is not recommending N95 masks.</li><li>N95s are critical supplies that must continue to be reserved for health care workers and other medical first responders, as recommended by CDC.</li></ul>"
-    },
-    {
-        "question": "When will there be a vaccine for our kids?",
-        "answer": "<ul><li>Several companies have begun enrolling children as young as age 12 in COVID-19 vaccine clinical trials.</li><li>Studies including younger children will begin soon.</li><li>Currently the COVID-19 vaccine is only available to people age 16 and older.</li></ul>"
-    },
-    {
-        "description": "Video of Dr. Blanchard in the park.",
-        "content": "<iframe style=\"margin: 0 auto;\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zyR3CkpQqzc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-    },
-    {
-        "description": "Video of FMC Dr.'s in their office.",
-        "content": "<iframe src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FWeiserMemorialHospital%2Fvideos%2F398635674529998%2F&show_text=0&width=560\" width=\"560\" height=\"315\" style=\"border:none;overflow:hidden;\" scrolling=\"no\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>"
-    },
-    {
-        "update": "<h3 style=\"color: #800000\">Family Medical Center is <b>NOT</b> scheduling any additional vaccination appointments at this time.</h3>"
-    }
+  {
+    "date": "Monday March 8, 2021"
+  },
+  {
+    "question": "What tier are we in now?",
+    "answer": "<b>Tier 2<b/> will be opening <b>March 15</b>"
+  },
+  {
+    "question": "I have had COVID-19, do I still need to get the vaccine?",
+    "answer": "<ul><li>According to the CDC – reinfection with COVID-19 is still possible.</li><li>The vaccine should be considered regardless of whether you already had the COVID-19 infection.</li></ul>"
+  },
+  {
+    "question": "When will there be a vaccine for our kids?",
+    "answer": "<ul><li>Several companies have begun enrolling children as young as age 12 in COVID-19 vaccine clinical trials.</li><li>Studies including younger children will begin soon.</li><li>Currently the COVID-19 vaccine is only available to people age 16 and older.</li></ul>"
+  },
+  {
+    "question": "Will the COVID-19 vaccination protect me from getting COVID?",
+    "answer": "<ul><li>Yes - The COVID-19 vaccination works by teaching your immune system how to recognize and fight the virus that causes COVID-19, and this protects you from getting sick with COVID-19.</li></ul>"
+  },
+  {
+    "question": "What type of side effects may occur and will they require me to miss work or have someone care for me?",
+    "answer": "<ul><li>Most people experience mild side affects.</li><li>Your arm may be sore, red and warm to touch.</li><li>Others have reported headaches or fever. This is a sign that your immune system is working and building up protection to the disease.</li></ul>"
+  },
+  {
+    "question": "Am I still a spreader if I have had COVID and/or if I have had my vaccine?",
+    "answer": "<ul><li>Yes. - It takes several weeks to build up vaccine-induced antibodies and other immune defenses, and both vaccines from Pfizer and Moderna require a booster dose 21 to 28 days after the first dose. So, the full protection offered by the vaccines would take at least a month to develop.</li><li>And since the vaccines don’t work perfectly, and it’s not known yet to what extent they prevent infection, it’s possible that a vaccinated person might still get the virus and be able to pass it on to others.</li><li>People will still need to wear masks, socially distance, wash their hands and avoid large gatherings, especially indoors.</li><li>It will take time to vaccinate everyone. Until that happens and until it’s clear how well the vaccines prevent transmission, safety measures are still needed.</li></ul>"
+  },
+  {
+    "question": "Why do I still have to wear a mask after I am vaccinated?",
+    "answer": "<ul><li>We can be immune and still be a carrier.</li></ul>"
+  },
+  {
+    "description": "ADDITIONAL VACCINE APPOINTMENTS WILL BE AVAILABLE AT FAMILY MEDICAL",
+    "content": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FWeiserMemorialHospital%2Fvideos%2F161207825833261%2F&show_text=false&width=560\" width=\"560\" height=\"314\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>"
+  },
+  {
+    "description": "New Vaccine registration site: covidvaccine.idaho.gov",
+    "content": "<h2 style=\"margin: 0 auto\">New Vaccine registration site: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2FCovidvaccine.Idaho.gov%2F%3Ffbclid%3DIwAR2SOyktc4gigi_MJglif6OlIAQqiKj8vZWReha_XcgnjANVpAuZkQnlaaA&h=AT1uuo53x3Sj7Aw5N9QFtd4fbAsUkg8vQ2SCUH-1U2piQoQ1KQWUXr_6Xgm-KuvhRD1GHTvmGGPONJ6WYYFxFXrY356S4HN99qZWw5K29E6ITVYhdBY6BETFdtoC&__tn__=-UK-R&c[0]=AT0RBwEiG_0Ob0VUe97vX-rFKucapZ_HZSqJ2JmL3YzCR8NXT2jwusk13brSTr3kKLZh7-yoblbAOLKV-uiJUr-ypwsAjHb64cSlhb38aF-hbjLp3oC8CfPuXGCCNAIS6F5PO0qVwhMt1vak02EY1jbyvxOhFmpBTig9wxy7-ff8Tk0NyAdKnsh9\">covidvaccine.idaho.gov</a></h2>"
+  },
+  {
+    "update": "<h2 style=\"margin-bottom: 0\">GOOD NEWS!</h2><br/><h3>ADDITIONAL VACCINE APPOINTMENTS WILL BE AVAILABLE AT FAMILY MEDICAL!</h3><br/><h3 style=\"margin-top: -15px\" ><a href=\"tel:12085494424\">(208) 549-4424</a></h3>"
+  }
 ]
