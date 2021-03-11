@@ -1,13 +1,12 @@
-## 2019-2020 Board Members
-- Irv Leen, Chairman
-- Dolores Larsen, Vice Chairman
-- Nancy Lazaro, Secretary
-- Kara Kunz, Treasurer
-- Jay Edwards
-- Linda Youngblood
-- Cathy Hibberd
+## 2021-2022 Board Members
+- Kara Kunz, Chairman
+- Nancy Lazaro, Vice Chairman
+- Cathy Hibberd, Secretary
+- Julia Harrison, Treasurer
 - Laurel Adams
-- Julia Harrison
-- Sally Bouvia, Ex-Officio (Trustee)
+- Linda Youngblood
 - Steven Hale, Ex-Officio (CEO)
-- *Casey Clark-Ney, Executive Director*
+- Sally Bouvia, Ex-Officio (Trustee)
+- Jay Edwards, Emeritus
+- Casey Clark-Ney, Executive Director
+- Kim Burgess, Project Coordinator
