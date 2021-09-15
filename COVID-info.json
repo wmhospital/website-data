@@ -1,10 +1,7 @@
 [
   {
-    "date": "Monday March 15, 2021"
-  },
-  {
-    "question": "What tier are we in now?",
-    "answer": "<b>Tier 2<b/> will be opening <b>March 15</b>"
+    "question": "Where can you get a COVID-19 Test?",
+    "answer": "<ul><li><div><p><b>Family Medical Center<br/> (MUST HAVE SYMPTOMS)</b></p><p><b>360 East Liberty</b></p><p><b>Weiser Idaho</b></p><p><a href=\"tel:208-549-4424\"><b>(208) 549-4424</b></a></p></div></li><li><div><p><b>Weiser Memorial Hospital<br /> (MUST HAVE SYMPTOMS & URGENT MEDICAL CARE)</b></p><p><b>645 5th Street</b></p><p><b>Weiser Idaho</b></p><p><a href=\"tel:208-549-0370\"><b>(208) 549-0370</b></a></p></div></li><li><div><p><b>Two Rivers Medical Clinic/Weiser</b></p><p><a href=\"tel:208-549-0211\"><b>(208) 549-0211</b></a></p></div></li><li><div><p><b>St. Alphonsus/Fruitland</b></p><p><a href=\"tel:208-381-9500\"><b>(208) 381-9500</b></a></p></div></li><li><div><p><b>St. Luke's/Fruitland</b></p><p><a href=\"tel:208-452-8050\"><b>(208) 452-8050</b></a></p></div></li><li><div><p><b>Rite Aid/Ontario</b></p><p><a href=\"tel:541-889-3390\"><b>(541) 889-3390</b></a></p></div></li><li><div><p><b>Walgreens/Ontario</b></p><p><a href=\"tel:541-889-6288\"><b>(541) 889-6288</b></a></p></div></li><li><div><p><b>Valley Family Health/Ontario</b></p><p><a href=\"tel:541-889-2340\"><b>(541) 889-2340</b></a></p></div></li></ul>"
   },
   {
     "question": "I have had COVID-19, do I still need to get the vaccine?",
@@ -39,6 +36,6 @@
     "content": "<h2 style=\"margin: 0 auto\">New Vaccine registration site: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2FCovidvaccine.Idaho.gov%2F%3Ffbclid%3DIwAR2SOyktc4gigi_MJglif6OlIAQqiKj8vZWReha_XcgnjANVpAuZkQnlaaA&h=AT1uuo53x3Sj7Aw5N9QFtd4fbAsUkg8vQ2SCUH-1U2piQoQ1KQWUXr_6Xgm-KuvhRD1GHTvmGGPONJ6WYYFxFXrY356S4HN99qZWw5K29E6ITVYhdBY6BETFdtoC&__tn__=-UK-R&c[0]=AT0RBwEiG_0Ob0VUe97vX-rFKucapZ_HZSqJ2JmL3YzCR8NXT2jwusk13brSTr3kKLZh7-yoblbAOLKV-uiJUr-ypwsAjHb64cSlhb38aF-hbjLp3oC8CfPuXGCCNAIS6F5PO0qVwhMt1vak02EY1jbyvxOhFmpBTig9wxy7-ff8Tk0NyAdKnsh9\">covidvaccine.idaho.gov</a></h2>"
   },
   {
-    "update": "<h2 style=\"margin-bottom: 0\">GOOD NEWS!</h2><br/><h3>ADDITIONAL VACCINE APPOINTMENTS WILL BE AVAILABLE AT FAMILY MEDICAL!</h3><br/><h3 style=\"margin-top: -15px\" ><a href=\"tel:12085494424\">(208) 549-4424</a></h3>"
+    "update": " <div style=\"display:flex;justify-content: center;flexFlow: column;max-width: 800px;margin: 0 auto;\"><h2>COVID Testing Information</h2><p>Weiser Memorial Hospital’s Emergency Department and Family Medical Center are facing mounting demands for COVID-19 testing, which is rapidly depleting testing supplies.</p><p>Weiser Memorial Hospital <u><b>is not</b></u> testing if you do not have symptoms. Weiser Memorial Hospital <u><b>is not</b></u> testing people who are wanting a test for travel or to attend an event.</p><p>If you are ill and need urgent medical care, go to the emergency department. A medical professional will evaluate you to determine if you need to be tested for COVID-19.</p><p>If you have mild Covid symptoms, and do not need urgent or emergency medical care, please do not come to the emergency department/Hospital for a Covid test. See testing site options below.</p></div>"
   }
 ]
