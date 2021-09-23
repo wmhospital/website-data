@@ -4,36 +4,76 @@
     "answer": "<ul><li><div><p><b>Family Medical Center<br/> (MUST HAVE SYMPTOMS)</b></p><p><b>360 East Liberty</b></p><p><b>Weiser Idaho</b></p><p><a href=\"tel:208-549-4424\"><b>(208) 549-4424</b></a></p></div></li><li><div><p><b>Weiser Memorial Hospital<br /> (MUST HAVE SYMPTOMS & URGENT MEDICAL CARE)</b></p><p><b>645 5th Street</b></p><p><b>Weiser Idaho</b></p><p><a href=\"tel:208-549-0370\"><b>(208) 549-0370</b></a></p></div></li><li><div><p><b>Two Rivers Medical Clinic/Weiser</b></p><p><a href=\"tel:208-549-0211\"><b>(208) 549-0211</b></a></p></div></li><li><div><p><b>St. Alphonsus/Fruitland</b></p><p><a href=\"tel:208-381-9500\"><b>(208) 381-9500</b></a></p></div></li><li><div><p><b>St. Luke's/Fruitland</b></p><p><a href=\"tel:208-452-8050\"><b>(208) 452-8050</b></a></p></div></li><li><div><p><b>Rite Aid/Ontario</b></p><p><a href=\"tel:541-889-3390\"><b>(541) 889-3390</b></a></p></div></li><li><div><p><b>Walgreens/Ontario</b></p><p><a href=\"tel:541-889-6288\"><b>(541) 889-6288</b></a></p></div></li><li><div><p><b>Valley Family Health/Ontario</b></p><p><a href=\"tel:541-889-2340\"><b>(541) 889-2340</b></a></p></div></li></ul>"
   },
   {
-    "question": "I have had COVID-19, do I still need to get the vaccine?",
-    "answer": "<ul><li>According to the CDC – reinfection with COVID-19 is still possible.</li><li>The vaccine should be considered regardless of whether you already had the COVID-19 infection.</li></ul>"
+    "question": "Do I have to call first?",
+    "answer": "<ul><li>You do not need to call our office first.  However, if you have questions about your symptoms, or if you are not sure if you should come in for a test, we recommend you call before coming in. (208) 549-4424</li></ul>"
   },
   {
-    "question": "When will there be a vaccine for our kids?",
-    "answer": "<ul><li>Several companies have begun enrolling children as young as age 12 in COVID-19 vaccine clinical trials.</li><li>Studies including younger children will begin soon.</li><li>Currently the COVID-19 vaccine is only available to people age 16 and older.</li></ul>"
+    "question": "Do I have to have symptoms to get tested?",
+    "answer": "<ul><li>Yes.  Increased testing has impacted our supplies and staffing.  We are now only testing those who are ill with Covid symptoms.</li><li>Symptoms may include: fever or chills; cough; shortness of breath; fatigue; muscle and body aches; headache; new loss of taste or smell; sore throat; congestion or runny nose; nausea or vomiting; diarrhea.</li></ul>"
   },
   {
-    "question": "Will the COVID-19 vaccination protect me from getting COVID?",
-    "answer": "<ul><li>Yes - The COVID-19 vaccination works by teaching your immune system how to recognize and fight the virus that causes COVID-19, and this protects you from getting sick with COVID-19.</li></ul>"
+    "question": "How long do I have to wait for results?",
+    "answer": "<ul><li>Currently, with the high level of tests being submitted to labs, send out tests are taking 7 to 9 days to get results.</li><li>An antigen test can be given, which results within 15 minutes</li></ul>"
   },
   {
-    "question": "What type of side effects may occur and will they require me to miss work or have someone care for me?",
-    "answer": "<ul><li>Most people experience mild side affects.</li><li>Your arm may be sore, red and warm to touch.</li><li>Others have reported headaches or fever. This is a sign that your immune system is working and building up protection to the disease.</li></ul>"
+    "question": "What are the different types of tests being offered?  Is one better than another?",
+    "answer": "<ul><li>Weiser Memorial Hospital and Family Medical Center have three different types of tests that we offer. All of them are done by nasal swabs. </li>The Rapid PCR Test, can be resulted in 15 minutes.  This test is in very short supply.  Weiser Memorial Hospital is reserving those tests for patients being admitted to the hospital, patients being transferred to other hospitals, and our hospital staff.</li><li>The ID Now Test is sent out to a lab for resulting and can take from 3 to 7 days.</li><li>The Antigen Test, can be resulted in 15-30 minutes.</li></ul>"
   },
   {
-    "question": "Am I still a spreader if I have had COVID and/or if I have had my vaccine?",
-    "answer": "<ul><li>Yes. - It takes several weeks to build up vaccine-induced antibodies and other immune defenses, and both vaccines from Pfizer and Moderna require a booster dose 21 to 28 days after the first dose. So, the full protection offered by the vaccines would take at least a month to develop.</li><li>And since the vaccines don’t work perfectly, and it’s not known yet to what extent they prevent infection, it’s possible that a vaccinated person might still get the virus and be able to pass it on to others.</li><li>People will still need to wear masks, socially distance, wash their hands and avoid large gatherings, especially indoors.</li><li>It will take time to vaccinate everyone. Until that happens and until it’s clear how well the vaccines prevent transmission, safety measures are still needed.</li></ul>"
+    "question": "What should I do while I wait for the results?",
+    "answer": "<ul><li>Stay home and monitor your health.</li><li>Let those you have been in close contact with know you are waiting for your results.</li><li>Make a plan for what you need to do if you get a positive result. It is recommended you quarantine for 10 days.</li></ul>"
   },
   {
-    "question": "Why do I still have to wear a mask after I am vaccinated?",
-    "answer": "<ul><li>We can be immune and still be a carrier.</li></ul>"
+    "question": "I don’t have a doctor in Weiser, can I still get tested here?",
+    "answer": "<ul><li>Yes.  Both medical clinics are taking walk-ins for Covid testing.  However, they require that you have Covid symptoms to get a test.</li></ul>"
   },
   {
-    "description": "ADDITIONAL VACCINE APPOINTMENTS WILL BE AVAILABLE AT FAMILY MEDICAL",
-    "content": "<iframe src=\"https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FWeiserMemorialHospital%2Fvideos%2F161207825833261%2F&show_text=false&width=560\" width=\"560\" height=\"314\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowfullscreen=\"true\" allow=\"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share\" allowFullScreen=\"true\"></iframe>"
+    "question": "I was exposed to someone who has tested positive, but I don’t have symptoms, should I get tested?",
+    "answer": "<ul><li>No.  Unless you begin to have symptoms.</li></ul>"
   },
   {
-    "description": "New Vaccine registration site: covidvaccine.idaho.gov",
-    "content": "<h2 style=\"margin: 0 auto\">New Vaccine registration site: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2FCovidvaccine.Idaho.gov%2F%3Ffbclid%3DIwAR2SOyktc4gigi_MJglif6OlIAQqiKj8vZWReha_XcgnjANVpAuZkQnlaaA&h=AT1uuo53x3Sj7Aw5N9QFtd4fbAsUkg8vQ2SCUH-1U2piQoQ1KQWUXr_6Xgm-KuvhRD1GHTvmGGPONJ6WYYFxFXrY356S4HN99qZWw5K29E6ITVYhdBY6BETFdtoC&__tn__=-UK-R&c[0]=AT0RBwEiG_0Ob0VUe97vX-rFKucapZ_HZSqJ2JmL3YzCR8NXT2jwusk13brSTr3kKLZh7-yoblbAOLKV-uiJUr-ypwsAjHb64cSlhb38aF-hbjLp3oC8CfPuXGCCNAIS6F5PO0qVwhMt1vak02EY1jbyvxOhFmpBTig9wxy7-ff8Tk0NyAdKnsh9\">covidvaccine.idaho.gov</a></h2>"
+    "question": "If I think I have Covid and wish to just stay home, are there things I can do relieve minor Covid symptoms?",
+    "answer": "<ul><li>Take advantage of over the counter medications to treat your symptoms. like acetaminophen or ibuprofen can reduce fever.</li><li>Stay hydrated and eat properly.</li><li>Getting plenty of rest to help the body fight the virus.</li></ul>"
+  },
+  {
+    "question": "How do I know when my symptoms are serious enough to come to the clinic or hospital?",
+    "answer": "<ul><li>Be sure to closely monitor your symptoms. If they worsen and you experience a more intense cough, high fever or difficulty breathing, call your doctor first if possible or seek immediate care. But if symptoms remain mild, you can stay in self-isolation until you feel well again.</li></ul>"
+  },
+  {
+    "question": "Who is providing Covid vaccines?",
+    "answer": "<ul><li>Family Medical Center is offering the Moderna and Pfizer vaccines.</li><li>At this time FMC does not have Johnson & Johnson (Jansen) available. We hope to get some in the coming weeks. </li><li>Tuesdays & Thursdays  -Pfizer</li><li>All weekdays  -Moderna</li><li>Expected More Soon    -Johnson & Johnson (Jansen)</li></ul>"
+  },
+  {
+    "question": "Is the booster vaccine available yet?  If so where?",
+    "answer": "<ul><li>Currently, COVID boosters are only available for those who qualify. You should contact your Primary Care Provider to see if you qualify.</li></ul>"
+  },
+  {
+    "question": "Can I get the vaccine at Family Medical if I live outside of Washington County?",
+    "answer": "<ul><li>If you live outside of Washington County, but have established your care at Family Medical Center or Two Rivers Medical Clinic, you can get yourz Vaccine at Family Medical.</li></ul>"
+  },
+  {
+    "question": "Is Weiser Memorial Hospital at patient capacity?",
+    "answer": "<ul><li>Our patient census is up and changes daily.</li></ul>"
+  },
+  {
+    "question": "Will I be turned away for care if I haven’t been fully vaccinated?",
+    "answer": "<ul><li>No</li></ul>"
+  },
+  {
+    "question": "Are you able to transfer the patients that need to go to other hospitals?",
+    "answer": "<ul><li>So far we have been able to transfer patients needing more critical care.  In a few cases it has taken us longer that usual, and bed availability at other hospitals can change daily and affect transfers.</li></ul>"
+  },
+  {
+    "question": "Are a lot of your staff out with COVID?",
+    "answer": "<ul><li>We are seeing a definite increase in staff members who are out either with covid or with family who are ill due to covid.</li></ul>"
+  },
+  {
+    "question": "Is Weiser Memorial Hospital still performing surgeries?",
+    "answer": "<ul><li>Yes</li></ul>"
+  },
+  {
+    "description": "Vaccine registration site: covidvaccine.idaho.gov",
+    "content": "<h2 style=\"margin: 0 auto\">Vaccine registration site: <a href=\"https://l.facebook.com/l.php?u=https%3A%2F%2FCovidvaccine.Idaho.gov%2F%3Ffbclid%3DIwAR2SOyktc4gigi_MJglif6OlIAQqiKj8vZWReha_XcgnjANVpAuZkQnlaaA&h=AT1uuo53x3Sj7Aw5N9QFtd4fbAsUkg8vQ2SCUH-1U2piQoQ1KQWUXr_6Xgm-KuvhRD1GHTvmGGPONJ6WYYFxFXrY356S4HN99qZWw5K29E6ITVYhdBY6BETFdtoC&__tn__=-UK-R&c[0]=AT0RBwEiG_0Ob0VUe97vX-rFKucapZ_HZSqJ2JmL3YzCR8NXT2jwusk13brSTr3kKLZh7-yoblbAOLKV-uiJUr-ypwsAjHb64cSlhb38aF-hbjLp3oC8CfPuXGCCNAIS6F5PO0qVwhMt1vak02EY1jbyvxOhFmpBTig9wxy7-ff8Tk0NyAdKnsh9\">covidvaccine.idaho.gov</a></h2>"
   },
   {
     "update": " <div style=\"display:flex;justify-content: center;flexFlow: column;max-width: 800px;margin: 0 auto;\"><h2>COVID Testing Information</h2><p>Weiser Memorial Hospital’s Emergency Department and Family Medical Center are facing mounting demands for COVID-19 testing, which is rapidly depleting testing supplies.</p><p>Weiser Memorial Hospital <u><b>is not</b></u> testing if you do not have symptoms. Weiser Memorial Hospital <u><b>is not</b></u> testing people who are wanting a test for travel or to attend an event.</p><p>If you are ill and need urgent medical care, go to the emergency department. A medical professional will evaluate you to determine if you need to be tested for COVID-19.</p><p>If you have mild Covid symptoms, and do not need urgent or emergency medical care, please do not come to the emergency department/Hospital for a Covid test. See testing site options below.</p></div>"
