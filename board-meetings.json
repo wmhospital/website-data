@@ -1,20 +1,42 @@
 [
-    {
-        "title": "July 2021",
-        "fileName": "07-22-21.pdf"
-    },{
-        "title": "June 2021",
-        "fileName": "06-24-21.pdf"
-    },{
-        "title": "April 2021",
-        "fileName": "04-22-21.pdf"
-    },
-    {
-        "title": "March 2021",
-        "fileName": "03-25-21.pdf"
-    },
-    {
-        "title": "January 2021",
-        "fileName": "01-28-21.pdf"
-    }
+  {
+    "title": "October 2021",
+    "fileName": "10-28-21.pdf"
+  },
+  {
+    "title": "September 2021",
+    "fileName": "09-30-21.pdf"
+  },
+  {
+    "title": "August 2021",
+    "fileName": "08-26-21.pdf"
+  },
+  {
+    "title": "July 2021",
+    "fileName": "07-22-21.pdf"
+  },
+  {
+    "title": "June 2021",
+    "fileName": "06-24-21.pdf"
+  },
+  {
+    "title": "May 2021",
+    "fileName": "05-27-21.pdf"
+  },
+  {
+    "title": "April 2021",
+    "fileName": "04-22-21.pdf"
+  },
+  {
+    "title": "March 2021",
+    "fileName": "03-25-21.pdf"
+  },
+  {
+    "title": "February 2021",
+    "fileName": "02-25-21.pdf"
+  },
+  {
+    "title": "January 2021",
+    "fileName": "01-28-21.pdf"
+  }
 ]
