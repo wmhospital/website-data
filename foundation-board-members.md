@@ -1,12 +1,12 @@
 ## 2021-2022 Board Members
 - Kara Kunz, Chairman
 - Nancy Lazaro, Vice Chairman
-- Cathy Hibberd, Secretary
+- Laurel Adams, Secretary
 - Julia Harrison, Treasurer
-- Laurel Adams
 - Linda Youngblood
-- Steven Hale, Ex-Officio (CEO)
 - Sally Bouvia, Ex-Officio (Trustee)
+- Helen Franklin, Ex-Officio (Friends of the Hospital)
 - Jay Edwards, Emeritus
+- Steven Hale, Ex-Officio (CEO)
 - Casey Clark-Ney, Executive Director
 - Kim Burgess, Project Coordinator
